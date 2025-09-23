@@ -26,3 +26,44 @@ Para correr este proyecto solo necesitas:
 1. Clona este repositorio en tu máquina:
    ```bash
    git clone https://github.com/ivanicrl85/challenge-amigo-secreto.git
+---
+
+## Uso de la aplicación ⚙️
+
+1. Escribe el nombre de un amigo en el campo de texto.  
+2. Haz clic en **Agregar Amigo** para sumarlo a la lista.  
+3. Repite el proceso para todos los nombres que quieras.  
+4. Haz clic en **Sortear Amigo** para seleccionar un ganador aleatorio 🎁.
+
+---
+
+## Despliegue 📦
+
+Si deseas publicar el proyecto en línea, puedes usar **GitHub Pages**:
+
+1. Ve a tu repositorio en GitHub.  2. Entra a **Settings > Pages**.  3. 
+En la sección **Branch**, selecciona `main` y carpeta `/root`.  4. 
+Guarda los cambios.  5. GitHub te dará un link del estilo: 
+https://ivanicrl85.github.io/challenge-amigo-secreto/
+Ese será el enlace público de tu app.
+
+---
+
+## Construido con 🛠️
+
+- **HTML5** – estructura de la aplicación.  
+- **CSS3** – estilos básicos de la interfaz.  
+- **JavaScript (DOM)** – lógica de agregar amigos y sortear.  
+
+---
+
+## Autores ✒️
+
+- **Ivan Regalado Leon** - Desarrollo y documentación.  
+
+---
+
+## Expresiones de Gratitud 🎁
+
+- Comparte este proyecto 
+- Y lo más importante: ¡diviértete programando!
